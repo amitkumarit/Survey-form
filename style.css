@@ -51,6 +51,10 @@ body {
     z-index: 1;
     border-radius: 10px;
   }
+  .content h1{
+    text-align: center;
+    color: #fff;
+  }
   #surveyForm {
     display: flex;
     flex-direction: column;
